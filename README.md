@@ -10,7 +10,7 @@ Bienvenido al repositorio **Maven-Resources**, lugar para encontrar recursos rá
 - [Maven Life Cycle](./Introducing-Maven/5-Maven-Life-Cycle/README.md): Elementos principales del ciclo de vida de Maven y sus aplicaciones prácticas.
 - [Maven Archetypes](./Introducing-Maven/6-Maven-Archetypes/README.md): Cómo utilizar y personalizar los arquetipos de Maven para generar proyectos estándar y complejos.
 
-## 🚀 Cómo usar
+## 🚀 Cómo Usar
 
 1. **Descarga** o explora cualquier recurso en la carpeta [Introducing-Maven/](./Introducing-Maven).
 2. **Practica** los comandos y flujos descritos.
